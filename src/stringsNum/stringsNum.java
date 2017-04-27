@@ -6,12 +6,16 @@ import java.util.Scanner;
 /**
  * Created by Marinka on 23.04.2017.
  */
+//For class names we use UPPER Camel Case
+//it is a bad practice to name all variables as 'a', 'b' 'c' etc. Hard to understand your code at all.
 public class stringsNum {
+    //not understandable variable names
     private int n;
+    //a is not used in code at all
     private int a;
     private String[] arrStrings;
 
-
+    //Default constructor is not necessary to write in your code class
     public stringsNum() {
     }
 

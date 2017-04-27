@@ -5,6 +5,7 @@ import java.util.Random;
 /**
  * Created by Marinka on 21.04.2017.
  */
+//For class names we use UPPER Camel Case
 public class positiveArray {
     private int[] arr;
     private Random rand = new Random();

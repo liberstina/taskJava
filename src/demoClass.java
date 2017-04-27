@@ -28,6 +28,7 @@ public class demoClass {
 
     //Пользователь вводит значения двух переменных. Программа реализует базовые математические операции над этими переменными (+ - * /).
 
+    //Pay attention to the cyclomatism. Perhaps you write your code in a place not intended for it.
     mathOperations mathOperations = new mathOperations();
     mathOperations.
 }
